@@ -1,0 +1,7 @@
+0.0010182031585025397
+0.0011244049600544822
+0.8617662565938432
+
+
+Differential-mode voltage gain Avd = 59.70647137360192 dB.
+Using the Y cursors in Scope 1 to confirm.
